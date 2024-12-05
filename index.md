@@ -6,7 +6,7 @@ Leandro Simón Aristeguieta Pirela is a first year PhD student focusing on diplo
 
 His current research combines digital methods--specifically topic modeling and corpus linguistics--with traditional close reading to better understand how Venezuelan poltiicians and political exiles in the early 20th century understood the changes happening to Venezuela's political economy due to the rise of the oil industry.
 
-<a href="/docs/CV.md">CV</a>
+<a href="/docs/CV.html">CV</a>
 <br>
 <br>
 Email: <laristeg@iu.edu>
