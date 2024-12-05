@@ -1,20 +1,7 @@
-<!DOCTYPE html>
-<html>
-<title>CV</title>
-<head>
-<style>
-    .grid-container {
-        display: grid;
-        grid-template-columns: 125px 1000px;
-    }
-
-    p {
-  margin: 0;
-  padding: 5px;
-}
-
-</style>
-</head>
+---
+layout: CV
+title: CURRICULUM VITAE
+---
 
 <h1>CURRICULUM VITAE</h1>
 
@@ -44,14 +31,12 @@
         <strong><p>2022-2023</p></strong>
         <strong><p>2020</p></strong>
     </div>
-
     <div>
         <p>Florida Atlantic University Department of History O’Sullivan Travel-to-Research Grant</p>
         <p>Florida Atlantic University Study of the Americas Initiative Next Wave Fellowship</p>
         <p>Florida Atlantic University Department of History Graduate Dean’s Fellowship</p>
         <p>Clarion University of Pennsylvania Department of History Outstanding Senior Award</p>
     </div>
-
 </div>
 
 <h3>ACADEMIC PUBLICATIONS</h3>
@@ -71,7 +56,6 @@ Thesis Advisor: Dr. Eyal Weinberg</p>
         <br>
         <strong><p>March 27, 2023</p></strong>
     </div>
-
     <div>
         <p>“How-To: Write Your Personal Statement,” co-presented with Megan Heron, Florida Atlantic University</p>
         <p>“Scholarship Essay Writing,” co-presented with Megan Heron, Florida Atlantic University</p>
@@ -92,18 +76,15 @@ Thesis Advisor: Dr. Eyal Weinberg</p>
         <br>
         <strong><p>2022-2024</p></strong>
     </div>
-
     <div>
         <p>Course Assistant, Department of History, Indiana University-Bloomington
             <br>
             Courses: Global Pop Culture</p>
-
         <p>Teaching Assistant, Department of History, Florida Atlantic University
             <br>
             Courses: History of Civilization I
             <br>
             US History Since 1877</p>
-        
         <p>Writing Consultant, University Center for Excellence in Writing, Florida Atlantic University
             <br>
             Writing Disciplines: History<br>
@@ -114,7 +95,6 @@ Thesis Advisor: Dr. Eyal Weinberg</p>
             Business Writing<br>
             Personal Statements/Statements of Purpose   
         </p>
-
     </div>
 </div>
 
@@ -123,7 +103,6 @@ Thesis Advisor: Dr. Eyal Weinberg</p>
     <div>
         <strong><p>2024</p></strong>
     </div>
-
     <div>
         <p>22nd Annual South Florida Tri-University Graduate Student Conference on Latin America and the Caribbean Steering Committee</p>
     </div>
@@ -136,14 +115,11 @@ Thesis Advisor: Dr. Eyal Weinberg</p>
         <strong><p>2021-2022</p></strong>
         <strong><p>2020-2021</p></strong>
         <strong><p>2019-2020</p></strong>
-
     </div>
-
     <div>
         <p>Reporter, EYT Media Group, Inc., Clarion, PA</p>
         <p>Intern/Staff Writer, The Derrick, Oil City, PA</p>
         <p>Student Writer, University Advancement, Clarion University of Pennsylvania, Clarion, PA</p>
-
     </div>
 </div>
 
@@ -162,5 +138,4 @@ Thesis Advisor: Dr. Eyal Weinberg</p>
 <p>"Redbank Negotiations: Parties Fail to Reach Agreement." <i>exploreClarion</i>. September 28, 2021. <a href="https://www.exploreclarion.com/local/2021/09/28/feature-update-on-redbank-negotiations-663854/">https://www.exploreclarion.com/local/2021/09/28/feature-update-on-redbank-negotiations-663854/</a></p>
 <p>"Flynn not guilty in fatal DUI." <i>The Clarion News</i>. July 6, 2021. <a href="https://www.theclarionnews.com/news/frontpage/flynn-not-guilty-in-fatal-dui/article_d98b1297-1be6-5eed-9beb-ca97f499aa7d.html">https://www.theclarionnews.com/news/frontpage/flynn-not-guilty-in-fatal-dui/article_d98b1297-1be6-5eed-9beb-ca97f499aa7d.html</a></p>
 <p>"Double DUI homicide trail opens in Clarion." <i>The Clarion News</i> July 1, 2021. <a href="https://www.theclarionnews.com/news/frontpage/double-dui-homicide-trail-opens-in-clarion/article_ab1a86c1-83b1-5b1e-a774-2309c09f04a3.html">https://www.theclarionnews.com/news/frontpage/double-dui-homicide-trail-opens-in-clarion/article_ab1a86c1-83b1-5b1e-a774-2309c09f04a3.html</a></p>
-
 </html>
