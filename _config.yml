@@ -3,6 +3,8 @@ title: "Leandro Aristeguieta"
 description: "PhD Student, History Department Department, Indiana University-Bloomington"
 logo: /assets/headshotsmall.jpg
 author: "Leandro Aristeguieta"
+include:
+  - CV.md
 collections:
   pages:
     output: true
