@@ -1,11 +1,10 @@
 ---
-layout: CV
-title: CURRICULUM VITAE
+layout: cv
+title: "Curriculum Vitae"
+permalink: /cv/
 ---
 
-<h1>CURRICULUM VITAE</h1>
-
-<h3>EDUCATION</h3>
+### EDUCATION
 
 <div class="grid-container">
     <div>
@@ -13,16 +12,14 @@ title: CURRICULUM VITAE
         <strong><p>2024</p></strong>
         <strong><p>2021</p></strong>
     </div>
-
     <div>
         <p>Indiana University-Bloomington</p>
         <p>Florida Atlantic University</p>
         <p>Clarion University of Pennsylvania</p>
     </div>
-    
 </div>
 
-<h3>FELLOWSHIPS AND AWARDS</h3>
+### FELLOWSHIPS AND AWARDS
 
 <div class="grid-container">
     <div>
@@ -39,13 +36,13 @@ title: CURRICULUM VITAE
     </div>
 </div>
 
-<h3>ACADEMIC PUBLICATIONS</h3>
-<p>“Cultivating Hegemony: Eisenhower, CEPAL, and the Cold War Geopolitics of the International Coffee Agreement, 1954-1962,” in progress, co-written with Dr. Phillip Hough, Department of Sociology, Florida Atlantic University
-    Research Experience</p>
+### ACADEMIC PUBLICATIONS
+
+<p>“Cultivating Hegemony: Eisenhower, CEPAL, and the Cold War Geopolitics of the International Coffee Agreement, 1954-1962,” in progress, co-written with Dr. Phillip Hough, Department of Sociology, Florida Atlantic University Research Experience</p>
 <p>M.A. Thesis: “Forging the Alliance for Progress: Venezuela, the United States, and the Bounty of Oil, 1957-1963”<br>
 Thesis Advisor: Dr. Eyal Weinberg</p>
 
-<h3>CONFERENCES AND PRESENTATIONS</h3>
+### CONFERENCES AND PRESENTATIONS
 
 <div class="grid-container">
     <div>
@@ -59,83 +56,8 @@ Thesis Advisor: Dr. Eyal Weinberg</p>
     <div>
         <p>“How-To: Write Your Personal Statement,” co-presented with Megan Heron, Florida Atlantic University</p>
         <p>“Scholarship Essay Writing,” co-presented with Megan Heron, Florida Atlantic University</p>
-        <p>“Forging the Alliance for Progress: Venezuela, the United States, and the Bounty of Oil, 1957-1963,” 22nd Annual South Florida Tri-University
+        <p>“Forging the Alliance for Progress: Venezuela, the United States, and the Bounty of Oil, 1957-1963,” 22nd Annual South Florida Tri-University</p>
         <p>“Forging the Alliance for Progress: Venezuela, the United States, and the Bounty of Oil, 1957-1963,” 2nd Runner Up, Preliminary Round 2, Florida Atlantic University Three Minute Thesis Competition</p>
         <p>“US-Venezuelan relations from 1958 to 1964 within the context of the Latin American Cold War,” 21st Annual South Florida Tri-University Graduate Student Conference on Latin America and the Caribbean, Florida Atlantic University</p>
     </div>
 </div>
-
-<h3>TEACHING</h3>
-
-<div class="grid-container">
-    <div>
-        <strong><p>2024-Present</p></strong>
-        <br>
-        <strong><p>2022-2024</p></strong>
-        <br>
-        <br>
-        <strong><p>2022-2024</p></strong>
-    </div>
-    <div>
-        <p>Course Assistant, Department of History, Indiana University-Bloomington
-            <br>
-            Courses: Global Pop Culture</p>
-        <p>Teaching Assistant, Department of History, Florida Atlantic University
-            <br>
-            Courses: History of Civilization I
-            <br>
-            US History Since 1877</p>
-        <p>Writing Consultant, University Center for Excellence in Writing, Florida Atlantic University
-            <br>
-            Writing Disciplines: History<br>
-            English<br>
-            Political Science<br>
-            Sociology<br>
-            Social Work<br>
-            Business Writing<br>
-            Personal Statements/Statements of Purpose   
-        </p>
-    </div>
-</div>
-
-<h3>SERVICE TO THE PROFESSION</h3>
-<div class="grid-container">
-    <div>
-        <strong><p>2024</p></strong>
-    </div>
-    <div>
-        <p>22nd Annual South Florida Tri-University Graduate Student Conference on Latin America and the Caribbean Steering Committee</p>
-    </div>
-</div>
-
-<h3>PREVIOUS WORK EXPERIENCE</h3>
-
-<div class="grid-container">
-    <div>
-        <strong><p>2021-2022</p></strong>
-        <strong><p>2020-2021</p></strong>
-        <strong><p>2019-2020</p></strong>
-    </div>
-    <div>
-        <p>Reporter, EYT Media Group, Inc., Clarion, PA</p>
-        <p>Intern/Staff Writer, The Derrick, Oil City, PA</p>
-        <p>Student Writer, University Advancement, Clarion University of Pennsylvania, Clarion, PA</p>
-    </div>
-</div>
-
-<h3>JOURNALISTIC PUBLICATIONS</h3>
-
-<p>"18 of 257 Bridges in Clarion County Rated Poor by PennDOT." <i>exploreClarion</i>. February 21, 2022. <a href="https://www.exploreclarion.com/local/2022/02/21/feature-condition-of-bridges-in-our-region-634835/">https://www.exploreclarion.com/local/2022/02/21/feature-condition-of-bridges-in-our-region-634835/</a>.</p>
-<p>"Fetterman Visits Clarion As Campaign Season Heats Up." <i>exploreClarion</i>. February 13, 2022. <a href="https://www.exploreclarion.com/local/2022/02/13/feature-fetterman-visits-clarion-635426/">https://www.exploreclarion.com/local/2022/02/13/feature-fetterman-visits-clarion-635426/</a></p>
-<p>"New Housing Development Planned for Trinity Point." <i>exploreClarion</i>. February 9, 2022. <a href="https://www.exploreclarion.com/local/2022/02/09/update-new-housing-development-planned-for-trinity-point-635297/">https://www.exploreclarion.com/local/2022/02/09/update-new-housing-development-planned-for-trinity-point-635297/</a></p>
-<p>"Over 2400 State-Owned Bridges Are in Poor Condition as PennDOT Faces Major Funding Shortfall." <i>exploreClarion</i> February 5, 2022. <a href="https://www.exploreclarion.com/local/2022/02/05/update-over-2400-state-owned-bridges-are-in-poor-condition-as-penndot-faces-major-funding-shortfall-635070/"">https://www.exploreclarion.com/local/2022/02/05/update-over-2400-state-owned-bridges-are-in-poor-condition-as-penndot-faces-major-funding-shortfall-635070/</a></p>
-<p>"‘It Has Just Been Unbelievable’: County Real Estate Market Booms During Pandemic." <i>exploreClarion</i>. January 19, 2022. <a href="https://www.exploreclarion.com/local/2022/01/19/it-has-just-been-unbelievable-county-real-estate-market-booms-during-pandemic-633566/">https://www.exploreclarion.com/local/2022/01/19/it-has-just-been-unbelievable-county-real-estate-market-booms-during-pandemic-633566/</a></p>
-<p>"Federal Infrastructure Funds Offer New Possibilities to Plug Pennsylvania’s Abandoned Wells." <i>exploreClarion</i>. January 7, 2022. <a href="https://www.exploreclarion.com/local/2022/01/07/update1-federal-infrastructure-funds-offer-new-possibilities-to-plug-pennsylvanias-abandoned-wells-632940/">https://www.exploreclarion.com/local/2022/01/07/update1-federal-infrastructure-funds-offer-new-possibilities-to-plug-pennsylvanias-abandoned-wells-632940/</a></p>
-<p>"Write-Ins Defeat Two Out of Four Keystone School Board Incumbents." <i>exploreClarion</i>. November 16, 2021. <a href="https://www.exploreclarion.com/local/2021/11/16/update-write-ins-defeat-two-out-of-four-keystone-school-board-incumbents-666696/">https://www.exploreclarion.com/local/2021/11/16/update-write-ins-defeat-two-out-of-four-keystone-school-board-incumbents-666696/</a></p>
-<p>"Contrasting Vision for Clarion-Limestone’s Future on Display in School Board Race." <i>exploreClarion</i>. October 31, 2021. <a href="https://www.exploreclarion.com/local/2021/10/31/contrasting-vision-for-clarion-limestones-future-on-display-in-school-board-race-665671/">https://www.exploreclarion.com/local/2021/10/31/contrasting-vision-for-clarion-limestones-future-on-display-in-school-board-race-665671/</a></p>
-<p>"Mayor’s Race in Clarion Borough Wide Open." <i>exploreClarion</i>. October 26, 2021. <a href="https://www.exploreclarion.com/local/2021/10/26/mayors-race-in-clarion-borough-wide-open-665366/">https://www.exploreclarion.com/local/2021/10/26/mayors-race-in-clarion-borough-wide-open-665366/</a></p>
-<p>"Watson Found Guilty on All Counts for Sex Crimes; ‘A Good Day for Clarion County’ Says DA Welsh." <i>exploreClarion</i>. September 25, 2021. <a href="https://www.exploreclarion.com/local/2021/09/25/update-watson-found-guilty-on-all-counts-for-sex-crimes-a-good-day-for-clarion-county-says-da-welsh-663745/">https://www.exploreclarion.com/local/2021/09/25/update-watson-found-guilty-on-all-counts-for-sex-crimes-a-good-day-for-clarion-county-says-da-welsh-663745/</a></p>
-<p>"Redbank Negotiations: Parties Fail to Reach Agreement." <i>exploreClarion</i>. September 28, 2021. <a href="https://www.exploreclarion.com/local/2021/09/28/feature-update-on-redbank-negotiations-663854/">https://www.exploreclarion.com/local/2021/09/28/feature-update-on-redbank-negotiations-663854/</a></p>
-<p>"Flynn not guilty in fatal DUI." <i>The Clarion News</i>. July 6, 2021. <a href="https://www.theclarionnews.com/news/frontpage/flynn-not-guilty-in-fatal-dui/article_d98b1297-1be6-5eed-9beb-ca97f499aa7d.html">https://www.theclarionnews.com/news/frontpage/flynn-not-guilty-in-fatal-dui/article_d98b1297-1be6-5eed-9beb-ca97f499aa7d.html</a></p>
-<p>"Double DUI homicide trail opens in Clarion." <i>The Clarion News</i> July 1, 2021. <a href="https://www.theclarionnews.com/news/frontpage/double-dui-homicide-trail-opens-in-clarion/article_ab1a86c1-83b1-5b1e-a774-2309c09f04a3.html">https://www.theclarionnews.com/news/frontpage/double-dui-homicide-trail-opens-in-clarion/article_ab1a86c1-83b1-5b1e-a774-2309c09f04a3.html</a></p>
-</html>
