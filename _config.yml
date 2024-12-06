@@ -4,7 +4,7 @@ description: "PhD Student, History Department Department, Indiana University-Blo
 logo: /assets/headshotsmall.jpg
 author: "Leandro Aristeguieta"
 include:
-  - CV.md
+  - docs/CV.md
 collections:
   pages:
     output: true
