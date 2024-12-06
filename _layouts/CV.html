@@ -1,31 +1,55 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/css/style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: "CV" }}</title>
   <style>
-        .grid-container {
+    .grid-container {
         display: grid;
-        grid-template-columns: 125px 1000px;
-        }
-        p {
+        grid-template-columns: 125px auto;
+        gap: 10px;
+    }
+
+    p {
         margin: 0;
         padding: 5px;
-        }
+    }
+
+    strong {
+        font-weight: bold;
+    }
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        line-height: 1.6;
+    }
+
+    nav a {
+        text-decoration: none;
+        color: #007acc;
+        margin-right: 10px;
+    }
+
+    nav {
+        margin-bottom: 20px;
+    }
+
+    h1, h3 {
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 5px;
+    }
   </style>
 </head>
 <body>
-    <nav>
-      <a href="/">Home</a>
-    </nav>
-    <h1>{{ page.title }}</h1>
-    <section>
-      {{ content }}
-    </section>
-    <footer>
-      &copy; to me
-    </footer>
-  </body>
+  <nav>
+    <a href="/">Home</a>
+  </nav>
+  <h1>{{ page.title | default: "Curriculum Vitae" }}</h1>
+
+  <main>
+    {{ content }}
+  </main>
+</body>
 </html>
